@@ -11,6 +11,8 @@ public class Demo {
 		
 		
 		System.out.println("Hi and Bye");
+		
+		System.out.println("hi bye say good bye");
 	}
 
 }
